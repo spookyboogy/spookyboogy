@@ -1,4 +1,6 @@
-###  👋
+<p align=center><h1> spookyboogy </h1></p>
+
+Usually coding small things with limited/niche utility, or just for fun/enjoyment, always learning along the way.   
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
