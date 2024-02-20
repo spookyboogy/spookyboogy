@@ -2,7 +2,7 @@
 
 <!-- <p align=center><h1> spookyboogy </h1></p> -->
 
-I'm usually coding small things with niche utility, or just for fun/enjoyment, and always learning along the way. 🌳 
+I'm usually coding small things with niche utility, or just for fun/enjoyment, and always learning along the way 🌳 
 <br> </br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
