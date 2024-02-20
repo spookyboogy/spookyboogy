@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-1f425f?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src= https://img.shields.io/badge/Jupyter-636262?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/Jupyter-636262?style=for-the-badge&logo=jupyter&logoColor=F37626" />
  
 
   
