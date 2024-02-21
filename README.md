@@ -1,4 +1,4 @@
-![Welcome Gif](./resources/hire_me_50pct.gif)
+![Welcome Gif](./resources/hire_me_80pct.gif)
 
 <!-- <p align=center><h1> spookyboogy </h1></p> -->
 
