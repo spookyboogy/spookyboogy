@@ -1,4 +1,4 @@
-![Welcome Gif](./resources/welcome_gif_github.gif)
+![Welcome Gif](./resources/welcome_gif_github-med.gif)
 
 <!-- <p align=center><h1> spookyboogy </h1></p> -->
 
